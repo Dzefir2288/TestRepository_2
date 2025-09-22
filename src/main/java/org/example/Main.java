@@ -10,5 +10,6 @@ public class Main {
         System.out.printf("Task 1 completed ");
         System.out.printf("Task 2 completed ");
         System.out.printf("Task 3 completed ");
+        System.out.printf("Task 4 completed ");
     }
 }
